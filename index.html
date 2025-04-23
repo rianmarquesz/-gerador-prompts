@@ -112,7 +112,8 @@ The theme is:`;
       function gerarPrompt1() {
         const tema = document.getElementById("tema").value.trim();
         if (!tema) return alert("Digite um tema!");
-        const promptFinal = textoPrompt1.replace("O tema é:", `O tema é: ${tema}`);
+        const promptFinal = textoPrompt1.replace("The theme is:", `The theme is: ${tema}`);
+
         document.getElementById("prompt1").value = promptFinal;
       }
 
