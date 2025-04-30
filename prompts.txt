@@ -1,16 +1,18 @@
-Create the first chapter of the story that will be narrated in video format for YouTube with at least 10,000 characters. The text should be written in the third person, with clear, emotional and fluid language, as if the character were venting to the viewer. Do not use a literary style. The introduction should be around 30 seconds long and contain a strong emotional hook (a question, a shocking sentence, or a part of the twist) to keep the audience hooked until the end.
+Create the first chapter of the story that will be narrated in video format for YouTube with at least 10,000 characters. The text should be written in the third person, with clear, emotional and fluid language, as if the character were venting to the viewer. Do not use a literary style.
 
-Start with a strong hook, with up to three sentences, that arouses curiosity, emotion or identification. The introduction should be around 30 seconds long and contain a strong emotional hook that immediately grabs the audience's attention. Then, add a single call to action asking the audience to comment on the city from which they are watching, in a natural and short way.
+Start with a strong hook, with up to three sentences, that arouses curiosity, emotion or identification. The introduction should be 30 seconds long, at least 500 characters long and contain a strong emotional hook that immediately grabs the audience's attention. Then, add a single call asking the audience to comment on the city from which they are watching, in a natural and short way, after the introduction.
 
 Develop the beginning of the story by introducing the main characters, the setting, the emotional context and the first signs of conflict or change.
 
-Use long, well-rounded paragraphs, maintaining a continuous rhythm. Avoid loose sentences, poetry style or short fragments to create dramatic impact. The impact should come from the story itself, not from the form.
+Use long, well-rounded paragraphs, maintaining a continuous rhythm. Avoid loose sentences, poetry style or short fragments to create dramatic impact. The impact should come from the story itself, not from the form. Remember that you should only wrap up the main plot in the last chapter, making the most important revelations and giving the characters a satisfying ending with a climax and twists.
 
-Remember that you should only wrap up the main plot in the last chapter, making the most important revelations and giving the characters a final ending with a climax and twists, in a satisfactory way.
+The chapter should end naturally, without forced transitional or suspenseful sentences, as the story continues in the next chapter. Don't use artificial cliffhangers, just let the flow flow organically.
 
-The chapter should end naturally, without forced transitional or suspenseful sentences, as the story continues in the next chapter. Do not use artificial cliffhangers, just let the flow flow organically.
+You can take inspiration from modern soap opera structures and realistic drama series, such as “This Is Us”, “Grey’s Anatomy”, “Maid”, “Virgin River” — but adapted to the format of a story told on YouTube.
 
-You can take inspiration from the structures of modern soap operas and realistic drama series, such as “This Is Us”, “Grey’s Anatomy”, “Maid”, “Virgin River” — but adapted to the format of a story told on YouTube.
+You don't need to put labels in the text, for example "CTA:". Write the final text to be narrated, without these topics and divisions, just the text that will be narrated.
+
+No canvas editing box.
 
 ---
 
