@@ -1,9 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Prompt Generator</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       font-family: sans-serif;
@@ -11,17 +11,43 @@
       max-width: 800px;
       margin: auto;
     }
+
     input, textarea, button {
       width: 100%;
       margin: 10px 0;
-      padding: 10px;
+      padding: 12px;
       font-size: 1rem;
+      box-sizing: border-box;
     }
+
     textarea {
-      height: 300px;
+      height: 200px;
+      resize: vertical;
     }
+
     .prompt-box {
       margin-bottom: 40px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    h1, h2 {
+      margin-top: 0;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 15px;
+      }
+
+      textarea {
+        height: 150px;
+      }
+
+      button {
+        font-size: 0.95rem;
+        padding: 10px;
+      }
     }
   </style>
 </head>
@@ -99,7 +125,6 @@
       }
     }
 
-    // Carrega automaticamente ao abrir
     carregarOutrosPrompts();
   </script>
 </body>
